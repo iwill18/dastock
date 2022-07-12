@@ -4,10 +4,10 @@ An Stock Market App where you can browse through different stock companies. When
 
 
 What was used??
-  Jetpack Compose (Building the UI)
-  Dagger-Hilt (Dependency Injection)
-  OpenCSV (CSV Parsing)
-  Retrofit (Remote API)
+  Jetpack Compose (Building the UI),
+  Dagger-Hilt (Dependency Injection),
+  OpenCSV (CSV Parsing),
+  Retrofit (Remote API),
   Room (Local Caching)
 
 
