@@ -1,6 +1,6 @@
 # What's The Best Stock?!?
 # Final CAT Project
-An Stock Market App where you can browse through different stock companies. When stock is clicked from the list, details about the stock appear. The details include the name, symbol, industry, summary about the stock and chart of the stock's numbers.
+A Stock Market App where you can browse through different stock companies. When stock is clicked from the list, details about the stock appear. The details include the name, symbol, industry, summary about the stock and chart of the stock's numbers.
 
 
 What was used??
